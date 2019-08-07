@@ -1,0 +1,16 @@
+{
+  "name": "appdater",
+  "version": "0.1.0",
+  "description": "Update stuff in the file system. Provides simple versioning.",
+  "main": "src/js/main/main.js",
+  "repository": "https://github.com/IMAGINARY/appdater.git",
+  "author": "Christian Stussak <christian.stussak@imaginary.org>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^6.0.1"
+  }
+}
